@@ -1,2 +1,2 @@
 # ai-eng-bootcamp
-Workspace for AI Engineering Bootcamp
+Workspace for AI Engineering Bootcamp!
